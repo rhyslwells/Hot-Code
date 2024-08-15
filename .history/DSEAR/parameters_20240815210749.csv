@@ -1,0 +1,3 @@
+output_file,xxx1_text,xxx1_font_size,xxx1_color,xxx2_text,xxx2_font_size,xxx2_color
+doc1.docx,Hello,12,red,World,14,blue
+doc2.docx,Python,16,green,Code,10,orange
